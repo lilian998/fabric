@@ -1,0 +1,7 @@
+# dataset path
+#path: /root/code/project/yolov8/
+train: /root/autodl-fs/fabric/images/train
+val: /root/autodl-fs/fabric/images/val
+
+nc: 5
+names: ['Hole','Stain','Yarn defect','Knot','Float']
